@@ -288,3 +288,5 @@ spa.shell = (function() {
     return { initModule: initModule };
     //---------- END PUBLIC METHODS ----------
 }());
+
+
